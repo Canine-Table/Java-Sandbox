@@ -1,6 +1,0 @@
-eclipse.preferences.version=1
-<<<<<<< HEAD
-org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1685996947286" defaultVMConnector\="">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1685996947286" name\="jdk-11.0.12.7-hotspot" path\="C\:\\Program Files\\Microsoft\\jdk-11.0.12.7-hotspot"/>\r\n    </vmType>\r\n</vmSettings>\r\n
-=======
-org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1688331864423" defaultVMConnector\="">\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\n        <vm id\="1688331864423" name\="jre" path\="/app/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.6.v20230204-1729/jre"/>\n    </vmType>\n</vmSettings>\n
->>>>>>> 9eb5801 (merge)
