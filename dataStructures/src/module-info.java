@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author table
+ *
+ */
+module dataStructures {
+}

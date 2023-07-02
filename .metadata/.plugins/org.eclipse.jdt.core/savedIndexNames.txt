@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 INDEX VERSION 1.131+C:\Users\Table\eclipse-workspace\Eclipse IDE for Java Developers\Eclipse-Workspace-Four\mySandbox\.metadata\.plugins\org.eclipse.jdt.core
 505774523.index
 1498663074.index
 1865797976.index
 1761564288.index
+=======
+INDEX VERSION 1.132+/mnt/sudoers/table/Documents/Programming/JAVA/dataStructures/.metadata/.plugins/org.eclipse.jdt.core
+2245001677.index
+217424002.index
+1865797976.index
+>>>>>>> 9eb5801 (merge)
